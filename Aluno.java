@@ -18,4 +18,9 @@ public class Aluno
    {
       return this.ID;
    }
+   
+   public void setNome(String nome)
+   {
+      this.nome = nome;
+   }
 }
